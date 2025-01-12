@@ -88,7 +88,7 @@ Chaque aspect de l'infrastructure est détaillé dans les fichiers du dossier [`
 
 ---
 
-## ⚙️ **Installation**
+<!--## ⚙️ **Installation**
 1. Clonez ce dépôt :  
    ```bash
    git clone https://github.com/ton-username/umbrella-infrastructure.git
@@ -105,6 +105,7 @@ Chaque aspect de l'infrastructure est détaillé dans les fichiers du dossier [`
    ```powershell
    ./vm-setup/umbrella-vm-deploy.ps1
    ```
+   -->
 
 ---
 
