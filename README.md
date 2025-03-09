@@ -24,7 +24,7 @@ Ce projet est une **simulation complète** conçue pour :
 - **Sécurité** :
   - 🔍 **Security Onion** pour la surveillance réseau.
   - 🔒 **Wazuh** pour la détection d'intrusion et la gestion des logs.
-  - 🔥 **Pare-feu OPNsense** pour protéger l'accès réseau.
+  - 🔥 **Pare-feu PFSense** pour protéger l'accès réseau.
 - **Virtualisation** : Machines virtuelles pour chaque composant.
 
 ### 📂 **Structure Active Directory :**
@@ -43,12 +43,12 @@ Ce projet est une **simulation complète** conçue pour :
 
 2. **Site statique** 🌐  
    - Hébergé dans une DMZ avec un design unique représentant Umbrella Corporation.  
-   - Créé avec **Bolt**, **HTML**, **Tailwind CSS**, et **JavaScript**.  
+   - Créé avec **HTML**, **Tailwind CSS**, et **JavaScript**.  
 
 3. **Cybersécurité intégrée** 🛡️  
    - Surveillance réseau avec **Security Onion**.  
    - Gestion des logs et alertes avec **Wazuh**.  
-   - Pare-feu OPNsense avec règles personnalisées.
+   - Pare-feu PFSense avec règles personnalisées.
 
 4. **Réseau segmenté** 🔗  
    - Configuration réseau avec DHCP, DNS, VPN, et DMZ.  
