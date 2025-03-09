@@ -81,7 +81,7 @@ umbrella-infrastructure/
 ## 📚 **Documentation**
 Chaque aspect de l'infrastructure est détaillé dans les fichiers du dossier [`documentation`](documentation/) :
 - **Vue d'ensemble** : [overview.md](documentation/overview.md)  
-- **Active Directory** : [active_directory.md](documentation/active_directory.md)  
+- **Active Directory** : [active_directory.md](active-directory/active_directory.md)  
 - **Cybersécurité** : [security_tools.md](documentation/security_tools.md)  
 - **Réseau** : [network_setup.md](documentation/network_setup.md)  
 - **Site statique** : [static_site.md](documentation/static_site.md)
