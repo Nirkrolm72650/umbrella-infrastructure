@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bio-card {
+  @apply bg-white/10 backdrop-blur-sm rounded-lg p-6 hover:transform hover:scale-105 transition-all duration-300;
+}
+
+.nav-link {
+  @apply text-white hover:text-umbrella-red transition-colors duration-300;
+}
+
+.section-title {
+  @apply text-4xl font-bold text-white mb-8 border-b-2 border-umbrella-red pb-2;
+}
